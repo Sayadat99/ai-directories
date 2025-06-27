@@ -94,6 +94,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 - [Findyouragent.ai](https://findyouragent.ai/) - A curated AI Agent Directory & Search Platform
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
+- [Face Shape Detector](https://faceauraai.com/) - Discover personalized style tips, beauty hacks, and confidence-boosting insights in seconds
 - [Foundr/](https://foundr.ai/) - scover The Best AI Tools at Your Fingertips
 - [Free AI Tool](https://freeaitool.ai/) - List of Best & Latest Free AI Tools in 2024
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
